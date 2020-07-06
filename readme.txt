@@ -1,5 +1,5 @@
 Git is a distributed version control system
-Git is free software distibuted under the GPL
+Git is a free software distibuted under the GPL
 Git has mutable called stage
 Git tracks changes
 Create n new brunch is quick
